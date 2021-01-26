@@ -1,5 +1,7 @@
 # Multi room chat
-Aplicação de um chat multi room, feita com NodeJS utilizando framework Express junto do websocket Socket.io.
+Aplicação de um chat multi room, feita com NodeJS utilizando arquitetura MVC, o framework Express e o websocket Socket.io.
+Também foi utilizado JQuery na implementação do front-end.
+
 Dependências: Body-Parser para auxiliar as request do body;
               Consign para alinhar as routes;
               EJS como view engine;
@@ -7,10 +9,12 @@ Dependências: Body-Parser para auxiliar as request do body;
               Express-validator para validar os dados do usuário;
               Socket.io para a conexão websocket.
 
-Application of a multi room chat, made with NodeJS using Express framework with the Socket.io websocket.
-Dependencies: Body-Parser to assist with body requests;
-              Consign to align routes;
+Multi room chat application, made with NodeJS using MVC architecture, Express framework and Socket.io websocket.
+JQuery was also used to implement the front-end.
+
+Dependencies: Body-Parser to assist as requested by the body;
+              Consign to align as routes;
               EJS as a view engine;
               Express to facilitate implementation;
               Express-validator to validate user data;
-              Socket.io for the websocket connection.
+              Socket.io for a connection websocket.
