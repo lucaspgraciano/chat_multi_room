@@ -43,4 +43,4 @@ io.on('connection', function(socket){
         }
     })
 })
-//criar a conexao por websocket
+//criando a conexao por websocket
